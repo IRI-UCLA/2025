@@ -1,10 +1,7 @@
----
----
-
-@import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700");
 
 // Our variables
-$base-font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size: 16px;
 $base-font-weight: 400;
 $small-font-size: $base-font-size * 0.875;
@@ -14,7 +11,7 @@ $spacing-unit: 30px;
 
 $text-color: #111;
 $background-color: #fdfdfd;
-$brand-color: #2a7ae2;
+$brand-color: #003366; // Updated to dark blue
 
 $grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
